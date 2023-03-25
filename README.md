@@ -1,10 +1,11 @@
 # quizgame
-### guessing game in windows form application and consumint the open trivia db api
+### guessing game in windows form application which consuming the open Trivia db api
+
 
 ### Containing
 + all time visible heading "Quiz game"
 + first panel
-    + user choose difficulty, number of claims
+    + choosing of a difficulty and a number of claims
 + second panel
     + number of claims to answer
     + score
